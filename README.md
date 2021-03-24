@@ -17,11 +17,11 @@ The aims of the project was:
 
 Repository contains: 
 1) Example of interactive map (html-file) 
-![alt text](https://github.com/annakamysheva/NCCR_ITMO_Internship/blob/master/Frequency_analysis_of_chronic_diseases/Interactive_map_example.png)
+![alt text](https://github.com/annakamysheva/NCCR_ITMO_Internship/blob/master/Frequency_analysis_of_chronic_diseases/Example_pictures%20/Interactive_map_example.png)
 _Screenshot of interactive map_
 
 3) Presentation with the most remarkable findings (correlation of desiase frequency with enviromental or socio-economic factors)
-![alt text](https://github.com/annakamysheva/NCCR_ITMO_Internship/blob/master/Frequency_analysis_of_chronic_diseases/Interesting_findings_example.png)
+![alt text](https://github.com/annakamysheva/NCCR_ITMO_Internship/blob/master/Frequency_analysis_of_chronic_diseases/Example_pictures%20/Interesting_findings_example.png)
 5) Code with data analysis: 
 + Extraction of patient's adress and socio-economic characteristic from medical records on natural language 
 + Geoencoding 
